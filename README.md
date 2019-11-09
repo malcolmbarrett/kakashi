@@ -3,7 +3,8 @@
 
 # kakashi theme for xaringan
 
-kakashi is a theme for the xaringan R package for making slides. kakashi
+kakashi is a theme for the [xaringan R
+package](https://github.com/yihui/xaringan) for making slides. kakashi
 has a clean look with color-blind friendly palettes.
 
 Marking text as italics (\*) will turn it blue, bold (\*\*) will turn it
@@ -14,7 +15,7 @@ lucy, but is ultimately unique. That is why this CSS (copy shinobi
 style) is called kakashi, [after the copy
 ninja](https://www.wikiwand.com/en/Kakashi_Hatake).
 
-# will you eventually contribute this theme to xaringan directly?
+# Will you eventually contribute this theme to xaringan directly?
 
 Yes, when I feel it is done. I’ve been using it for a while, but I still
 feel it needs polishing. In the mean time, you can include it in your
@@ -24,3 +25,9 @@ code:
 ``` r
 htmltools::includeCSS("https://raw.githubusercontent.com/malcolmbarrett/kakashi/master/kakashi.css")
 ```
+
+# Examples
+
+  - [Advanced R Bookclub](https://advr-bookclub-24-25.netlify.com/)
+  - [Functional programming and iteration with
+    purrr](https://lar-purrr.netlify.com/)
