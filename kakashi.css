@@ -15,7 +15,7 @@ strong {
 }
 
 em {
-  color: #56B4E9;  
+  color: #56B4E9;
   font-style: normal;
   font-weight: bold;
 }
@@ -45,6 +45,8 @@ del {
 .large { font-size: 130% }
 .medium { font-size: 115% }
 .small { font-size: 70% }
+
+.shadow { text-shadow: 0 0 20px #333 }
 
 .remark-slide-content {
   color: #474747;
