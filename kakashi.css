@@ -139,11 +139,6 @@ h2 {
 
 .shadow { text-shadow: 0 0 20px rgba(51,51,51,0.35) }
 
-.shadow-box {
-  display: inline;
-  background-color: rgba(51,51,51,0.35);
-}
-
 img {
   display: block;
   margin-left: auto;
