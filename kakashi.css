@@ -46,7 +46,6 @@ del {
 .medium { font-size: 115% }
 .small { font-size: 70% }
 
-.shadow { text-shadow: 0 0 20px #333 }
 
 .remark-slide-content {
   color: #474747;
@@ -122,6 +121,9 @@ h2 {
   text-shadow: none;
   font-weight: bold;
 }
+
+
+.shadow { text-shadow: 0 0 20px #333 }
 
 .takeaways {
   padding-top: 80px;
